@@ -25,8 +25,8 @@
         <div>
     </div>
 <div class="footer">
-    Challenge by <a href=" https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
-    Coded by <a href="#">Saikumar Hangal</a>.
+    Challenge by <a href=" https://www.frontendmentor.io?ref=challenge" target="_blank" >Frontend Mentor</a>.
+    Coded by <a href="https://www.frontendmentor.io/profile/M0GAMB0"  target="_blank" >Saikumar Hangal</a>.
 </div>
 </body>
 </html>
